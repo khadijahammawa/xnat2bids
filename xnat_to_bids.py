@@ -2,6 +2,9 @@ import os
 import subprocess
 import xnat
 
+#pip install xnat
+#pip install heudiconv
+
 # Connect to XNAT server
 xnat_host = 'https://your-xnat-server.com'
 xnat_user = 'username'
